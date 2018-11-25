@@ -3,10 +3,10 @@ img {
   padding: 2px;
   margin-left: 100px;
   margin-top: 15px;
-
+  border-radius: 50%
 }
 .background {
-  background-color: #22201F;
+  background-color: #111621;
   font-family: cursive;
 }
 body {
@@ -15,13 +15,13 @@ body {
 .sidebar {
   width: 40%;
   float: right;
-  background-color: #22201F;
+  background-color: #111621;
   margin-right: 150px;
   margin-top: 100px;
 }
 nav {
   height: 42px;
-  background-color: #22201F;
+  background-color: #111621;
   ;
 }
 nav ul {

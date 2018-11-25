@@ -3,5 +3,21 @@ body {
   font-family: cursive;
 }
 .background {
-  background-color: #22201F;
+  background-color: #111621;
+}
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.me {
+  text-align: center;
+}
+.block {
+width: 30%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
 }
