@@ -25,7 +25,7 @@ margin-right: auto;
 text-align: center;
 
 }
-.block:hover {
+.block p:hover {
   opacity: 0.7;
 }
 .green {
