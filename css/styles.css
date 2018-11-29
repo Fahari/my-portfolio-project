@@ -39,7 +39,7 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #5ACCDC;
   color: #22201F;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 h3 {
   text-align: center;

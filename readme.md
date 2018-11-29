@@ -10,7 +10,7 @@ The website is hosted on GithHub pages at https://fahari.github.io/my-portfolio-
 ## Known Bugs
 Everything works in shipshape condition.
 ## Technologies Used
-HTML5 & css3
+HTML5, css3 & atom editor
 ## Support and contact details
 karonjekevin67@gmail.com
 ### License
