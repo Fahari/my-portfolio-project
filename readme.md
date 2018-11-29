@@ -4,6 +4,8 @@
 ## Description
 This is a portfolio website created solely using HTML & css3. The landing page is simply structured to give an "elegant" look and feel. The about me section gives brief details of who I am and what I currently do. The layout of the whole website is basic enough, giving an impression of an amateur developer, but it functions like a veteran Navy seal.
 ## Setup/Installation Requirements
+A web browser
+Internet connection
 The website is hosted on GithHub pages at https://fahari.github.io/my-portfolio-project/
 ## Known Bugs
 Everything works in shipshape condition.
